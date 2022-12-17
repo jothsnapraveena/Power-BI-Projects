@@ -1,7 +1,7 @@
 
 # Data Visualization using Power BI
 
-In this project we are going to import data from excel, clean the data and analyse superstore sales data to  draw insights like quantity of sales and profits.
+In this project we are going to import data from excel, clean the data and analyse complex data to  draw useful insights using scorecards, different visualizations and reports
 
 ## Authors
 
