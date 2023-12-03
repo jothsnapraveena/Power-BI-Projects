@@ -1,7 +1,7 @@
 
 # Data Visualization using Power BI
 
-In this project we are going to import data from excel, clean the data and analyse complex data to  draw useful insights using scorecards, different visualizations and reports
+This project involves the development of an interactive and visually engaging PowerBI dashboard for analyzing the sales data of a superstore chain. Leveraging the capabilities of PowerBI, the goal is to provide stakeholders with a user-friendly platform for exploring key performance metrics, identifying trends, and making informed business decisions based on the insights derived from the sales data.
 
 ## Authors
 
